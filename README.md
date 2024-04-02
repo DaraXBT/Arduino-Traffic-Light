@@ -1,3 +1,4 @@
+![](https://github.com/daraaveasna/Arduino-Traffic-Light/blob/main/githubBanner.gif)
 # Traffic Light Controller with Arduino ThinkerCard
 
 This project utilizes Arduino ThinkerCard to control a traffic light system. The system simulates the behavior of traffic lights at an intersection.
